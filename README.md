@@ -17,6 +17,7 @@ A portfolio website built using HTML5, CSS, and Javascript to showcase HCI proje
 * [Contributing](#contributing)
 * [Tests](#tests)
 * [Questions](#questions)
+* [References](#references)
 
 ## Installation 
 To install the necessary dependencies, run the following command: 
@@ -40,4 +41,7 @@ Right click and select open browser
 ## Questions 
 If you have any questions about the repo, open an issue or contact me directly
 at csgbonang@gmail.com. You can find more at [csbonang](https://github.com/csbonang). 
-        
+
+## References 
+Typing Effect in JavaScript
+https://www.youtube.com/watch?v=T4VE_6v9hFs
